@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Saurabh Gupta 
 - 👀 I’m interested in AI based plant genomics data analysis works
-- 🌱 I’m currently learningquantitative genetics
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning quantitative genetics
 - 📫 How to reach me at sauragupta@google.com
 
 <!---
